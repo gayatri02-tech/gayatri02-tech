@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 👋 Hi, I'm Gayatri <br>👩‍💻Frontend Developer | HTML | CSS | JavaScript | React.js<br>🌱 Learning something new every day.
 
